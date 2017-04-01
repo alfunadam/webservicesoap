@@ -1,1 +1,2 @@
-# webservicesoap
+# webservice
+Proyek kuliah web service
